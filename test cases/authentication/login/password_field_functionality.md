@@ -1,6 +1,6 @@
 ## SC04 - Password Field Functionality
 
-### A001_SC04_TC17 - Verify that the “Show/Hide password” button toggles password visibility
+### LOG_SC04_TC17 - Verify that the “Show/Hide password” button toggles password visibility
 **Title**: Verify that the “Show/Hide password” button toggles password visibility <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -18,7 +18,7 @@
 
 ---
 
-### A001_SC04_TC18 - Verify copy-paste functionality in password field
+### LOG_SC04_TC18 - Verify copy-paste functionality in password field
 **Title**: Verify copy-paste functionality in password field <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
