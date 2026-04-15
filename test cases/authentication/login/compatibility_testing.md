@@ -1,6 +1,6 @@
 ## SC08 - Compatibility Testing
 
-### A001_SC08_TC28 - Verify that the login page displays and functions correctly on Safari
+### LOG_SC08_TC28 - Verify that the login page displays and functions correctly on Safari
 **Title**: Verify that the login page displays and functions correctly on Safari <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -18,7 +18,7 @@
 
 ---
 
-### A001_SC08_TC29 - Verify that the login page displays and functions correctly on Microsoft Edge
+### LOG_SC08_TC29 - Verify that the login page displays and functions correctly on Microsoft Edge
 **Title**: Verify that the login page displays and functions correctly on Microsoft Edge <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -36,7 +36,7 @@
 
 ---
 
-### A001_SC08_TC30 - Verify that the login page displays and functions correctly on Firefox
+### LOG_SC08_TC30 - Verify that the login page displays and functions correctly on Firefox
 **Title**: Verify that the login page displays and functions correctly on Firefox <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -54,7 +54,7 @@
 
 ---
 
-### A001_SC08_TC31 - Verify that the login page displays and functions correctly on Chrome
+### LOG_SC08_TC31 - Verify that the login page displays and functions correctly on Chrome
 **Title**: Verify that the login page displays and functions correctly on Firefox <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
