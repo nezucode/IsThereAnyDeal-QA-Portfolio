@@ -1,6 +1,6 @@
 ## SC02 - Login With Invalid Credentials
 
-### A001_SC02_TC02 - Verify login with empty email and password fields
+### LOG_SC02_TC02 - Verify login with empty email and password fields
 **Title**: Verify login with empty email and password fields <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -16,7 +16,7 @@
 
 ---
 
-### A001_SC02_TC03 - Verify login with an empty email and a valid password
+### LOG_SC02_TC03 - Verify login with an empty email and a valid password
 **Title**: Verify login with an empty email and a valid password <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -33,7 +33,7 @@
 
 ---
 
-### A001_SC02_TC04 - Verify login with a valid email and an empty password field
+### LOG_SC02_TC04 - Verify login with a valid email and an empty password field
 **Title**: Verify login with a valid email and an empty password field <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -50,7 +50,7 @@
 
 ---
 
-### A001_SC02_TC05 - Verify login with a valid email and an invalid password
+### LOG_SC02_TC05 - Verify login with a valid email and an invalid password
 **Title**: Verify login with a valid email and an invalid password <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -67,7 +67,7 @@
 
 ---
 
-### A001_SC02_TC06 - Verify login with unregistered email and a valid password
+### LOG_SC02_TC06 - Verify login with unregistered email and a valid password
 **Title**: Verify login with unregistered email and a valid password <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -84,7 +84,7 @@
 
 ---
 
-### A001_SC02_TC07 - Verify login with an unverified email and a valid password
+### LOG_SC02_TC07 - Verify login with an unverified email and a valid password
 **Title**: Verify login with an unverified email and a valid password<br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
