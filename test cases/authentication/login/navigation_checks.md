@@ -1,6 +1,6 @@
 ## SC06 - Navigation Checks
 
-### A001_SC06_TC24 - Verify the “Sign in through Steam” button navigates to the Steam Login page
+### LOG_SC06_TC24 - Verify the “Sign in through Steam” button navigates to the Steam Login page
 **Title**: Verify the “Sign in through Steam” button navigates to the Steam Login page <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -15,7 +15,7 @@
 
 ---
 
-### A001_SC06_TC25 - Verify that clicking the "Forgot Password" link navigates to the Forgot Password page
+### LOG_SC06_TC25 - Verify that clicking the "Forgot Password" link navigates to the Forgot Password page
 **Title**: Verify that clicking the "Forgot Password" link navigates to the Forgot Password page <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -30,7 +30,7 @@
 
 ---
 
-### A001_SC06_TC26 - Verify the “Create an account” button navigates to the Create an Account page
+### LOG_SC06_TC26 - Verify the “Create an account” button navigates to the Create an Account page
 **Title**: Verify the “Create an account” button navigates to the Create an Account page <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
