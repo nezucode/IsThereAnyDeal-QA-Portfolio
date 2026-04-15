@@ -1,6 +1,6 @@
 ## SC05 - Security Testing
 
-### A001_SC05_TC19 - Verify account lockout after multiple failed login attempts
+### LOG_SC05_TC19 - Verify account lockout after multiple failed login attempts
 **Title**: Verify account lockout after multiple failed login attempts <br>
 **Execution Status**: ⛔ Failed <br>
 **Preconditions**: 
@@ -20,7 +20,7 @@
 
 ---
 
-### A001_SC05_TC20 - Verify that the email field rejects SQL injection attempt
+### LOG_SC05_TC20 - Verify that the email field rejects SQL injection attempt
 **Title**: Verify that the email field rejects SQL injection attempt <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -37,7 +37,7 @@
 
 ---
 
-### A001_SC05_TC21 - Verify that the email field rejects XSS attack attempt
+### LOG_SC05_TC21 - Verify that the email field rejects XSS attack attempt
 **Title**: Verify that the email field rejects XSS attack attempt <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -54,7 +54,7 @@
 
 ---
 
-### A001_SC05_TC22 - Verify that the password field rejects SQL Injection attempt
+### LOG_SC05_TC22 - Verify that the password field rejects SQL Injection attempt
 **Title**: Verify that the password field rejects SQL Injection attempt <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -71,7 +71,7 @@
 
 ---
 
-### A001_SC05_TC23 - Verify that the password field rejects XSS attack attempt
+### LOG_SC05_TC23 - Verify that the password field rejects XSS attack attempt
 **Title**: Verify that the password field rejects XSS attack attempt <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
