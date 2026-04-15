@@ -1,6 +1,6 @@
 ## SC03 - Input Field Validation
 
-### A001_SC03_TC08 - Verify login with leading/trailing spaces in the email field
+### LOG_SC03_TC08 - Verify login with leading/trailing spaces in the email field
 **Title**: Verify login with leading/trailing spaces in the email field <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -17,7 +17,7 @@
 
 ---
 
-### A001_SC03_TC09 - Verify login with leading/trailing spaces in the password field
+### LOG_SC03_TC09 - Verify login with leading/trailing spaces in the password field
 **Title**: Verify login with leading/trailing spaces in the password fieldd <br>
 **Execution Status**: ⛔ Failed <br>
 **Preconditions**: 
@@ -36,7 +36,7 @@
 
 ---
 
-### A001_SC03_TC10 - Verify login with email missing @ symbol
+### LOG_SC03_TC10 - Verify login with email missing @ symbol
 **Title**: Verify login with email missing @ symbol <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -53,7 +53,7 @@
 
 ---
 
-### A001_SC03_TC11 - Verify login with email missing domain
+### LOG_SC03_TC11 - Verify login with email missing domain
 **Title**: Verify login with email missing domain <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -70,7 +70,7 @@
 
 ---
 
-### A001_SC03_TC12 - Verify login with email missing top-level domain
+### LOG_SC03_TC12 - Verify login with email missing top-level domain
 **Title**: Verify login with email missing top-level domain <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -87,7 +87,7 @@
 
 ---
 
-### A001_SC03_TC13 - Verify login with email exceeding character limit
+### LOG_SC03_TC13 - Verify login with email exceeding character limit
 **Title**: Verify login with email missing top-level domain <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -104,7 +104,7 @@
 
 ---
 
-### A001_SC03_TC14 - Verify login with password exceeding character limit
+### LOG_SC03_TC14 - Verify login with password exceeding character limit
 **Title**: Verify login with password exceeding character limit <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -121,7 +121,7 @@
 
 ---
 
-### A001_SC03_TC15 - Verify login with case sensitivity on the email field
+### LOG_SC03_TC15 - Verify login with case sensitivity on the email field
 **Title**: Verify login with case sensitivity on the email field <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
@@ -138,7 +138,7 @@
 
 ---
 
-### A001_SC03_TC16 - Verify login with only whitespace characters in the email and password fields
+### LOG_SC03_TC16 - Verify login with only whitespace characters in the email and password fields
 **Title**: Verify login with only whitespace characters in the email and password fields <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
