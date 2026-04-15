@@ -1,6 +1,6 @@
 ## SC01 - Login With Valid Credentials
 
-### A001_SC01_TC01 - Verify login with a valid email and password
+### LOG_SC01_TC01 - Verify login with a valid email and password
 **Title**: Verify login with a valid email and password <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
