@@ -9,7 +9,7 @@ IsThereAnyDeal is a website that compares PC game prices from authorized retaile
 | Project Name | IsThereAnyDeal Manual and Automation Testing |
 | Name of Product | IsThereAnyDeal (Website) |
 | Product Description | A website that helps users to find the best deals PC game prices from authorized online retailers by tracking historical prices. |
-| Test Period | August - Present |
+| Test Period | March - Present |
 | Tester| Intan N |
 
 ## Tech Stacks and Tools
