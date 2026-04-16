@@ -14,5 +14,3 @@
 | 1 | Enter a valid email | The system accepts the valid email  | ✅ Passed |
 | 2 | Enter the identical valid password into both the password and repeat password fields | The system accepts the input in both fields | ✅ Passed |
 | 3 | Click the "Create Account" button | User is successfully registered and redirected to the "Welcome" page. The system sent a verification email to the registered email. | ✅ Passed |
-
----
