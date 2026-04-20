@@ -12,7 +12,7 @@ export class LoginPage {
     this.emailInput = page.getByPlaceholder('email@example.com');
     this.passwordInput = page.getByPlaceholder('Your password');
     this.signInButton = page.getByRole('button', { name: 'Sign in' });
-    this.errorMessage = page.getByText('Please fill in this field.');
+    this.errorMessage = page.locator('text=Please fill in this field.');
   }
 
   async goto() {
