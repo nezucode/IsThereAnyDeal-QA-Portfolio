@@ -5,14 +5,14 @@ export class LoginPage {
   readonly emailInput: Locator;
   readonly passwordInput: Locator;
   readonly signInButton: Locator;
-  //readonly errorMessage: Locator;
+  readonly errorMessage: Locator;
 
   constructor(page: Page) {
     this.page = page;
     this.emailInput = page.getByPlaceholder('email@example.com');
     this.passwordInput = page.getByPlaceholder('Your password');
     this.signInButton = page.getByRole('button', { name: 'Sign in' });
-    //this.errorMessage = page.locator('text=The email and password combination is incorrect');
+    this.errorMessage = page.getByText('Please fill in this field.');
   }
 
   async goto() {
