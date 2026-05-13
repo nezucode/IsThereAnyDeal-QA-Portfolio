@@ -11,13 +11,13 @@ test.describe('Authentication - Login', () => {
     await expect(page).toHaveURL(/.*isthereanydeal.com/); 
   });
 
-  // test('TC02 - Verify login with empty email and password fields', async ({ page }) => {
-  //   const loginPage = new LoginPage(page);
-  //   await loginPage.goto();
-  //   await loginPage.login('', '');
-  //   // await expect(loginPage.errorMessage).toBeVisible();
-  //   await expect(loginPage.errorMessage).toHaveText(expectedMessages.emptyField);
-  // });
+  test('TC02 - Verify login with empty email and password fields', async ({ page }) => {
+    const loginPage = new LoginPage(page);
+    await loginPage.goto();
+    await loginPage.login('', '');
+    // await expect(loginPage.errorMessage).toBeVisible();
+    await expect(loginPage.errorMessage).toHaveText(expectedMessages.emptyField);
+  });
 
   // test('TC02 - Login dengan invalid credentials', async ({ page }) => {
   //   const loginPage = new LoginPage(page);
