@@ -132,7 +132,8 @@
 | :--- | :--- | :--- |:--- |
 | 1 | Enter a valid email | The system accepts the valid email  | ✅ Passed |
 | 2 | Enter a password with 100+ characters (e.g., "aaa...[100x]...") into both the password and repeat password fields | The system accepts the password with 100+ characters | ✅ Passed |
-| 3 | Click the "Create Account" button | The system should prevent input beyond the maximum character limit (e.g., 255). The system displays an error message (e.g., "Password must not exceed 255 characters."). | ✅ Passed |
+| 3 |  User is successfully registered and redirected to the "Welcome" page. The system sent a verification email to the registered email.
+ | ✅ Passed |
 
 ---
 
@@ -166,5 +167,5 @@
 | :--- | :--- | :--- |:--- |
 | 1 | Enter a valid email | The system accepts the valid email  | ✅ Passed |
 | 2 | Enter a single character (e.g., "o") into both the password and repeat password fields | The system accepts the password | ✅ Passed |
-| 3 | Click the "Create Account" button | The user is successfully registered and redirected to the homepage | ✅ Passed |
+| 3 | Click the "Create Account" button | User is successfully registered and redirected to the "Welcome" page. The system sent a verification email to the registered email. | ✅ Passed |
 
