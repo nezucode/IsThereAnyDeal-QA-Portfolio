@@ -62,7 +62,7 @@
 | Steps | Action | Expected Result | Status |
 | :--- | :--- | :--- |:--- |
 | 1 | Enter a valid email | The system accepts the valid email  | ✅ Passed |
-| 2 | Enter an invalid password| The system accepts the invalid password  | ✅ Passed |
+| 2 | Enter an invalid password (e.g., Qwerty111)| The system accepts the invalid password  | ✅ Passed |
 | 3 | Click the "Sign in" button | The systems displays an error message (e.g., "The email and password combination is incorrect") | ✅ Passed |
 
 ---
